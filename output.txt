@@ -6,15 +6,15 @@
 6: ['6>------ Clean started: Project: cpp10_edmi, Configuration: Debug x64 ------\n'],
 7: ['7>------ Clean started: Project: EDMS_client, Configuration: Debug x64 ------\n'],
 8: ['8>------ Clean started: Project: EDMwebServer, Configuration: Debug x64 ------\n',
-    "8>resource.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n", 
-    "8>resource.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n"], 
+    "8>resource.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n",
+    "8>resource.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n"],
 9: ['9>------ Clean started: Project: edmappserver, Configuration: Debug x64 ------\n'],
 10: ['10>------ Clean started: Project: edmserver, Configuration: Debug x64 ------\n'],
 11: ['11>------ Clean started: Project: Edms_single, Configuration: Debug x64 ------\n'],
 12: ['12>------ Clean started: Project: edmidll_client, Configuration: Debug x64 ------\n'],
 13: ['13>------ Clean started: Project: edmi_server, Configuration: Debug x64 ------\n',
-    "13>rc\\vib.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n", 
-    "13>rc\\vib.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n"], 
+    "13>rc\\vib.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n",
+    "13>rc\\vib.rc(10): fatal error RC1015: cannot open include file 'afxres.h'.\n"],
 14: ['14>------ Clean started: Project: appserver_dll, Configuration: Debug x64 ------\n'],
 15: ['15>------ Clean started: Project: gui, Configuration: Debug x64 ------\n'],
 16: ['16>------ Clean started: Project: edmidll_single, Configuration: Debug x64 ------\n'],
@@ -35,7 +35,7 @@
     "29>LINK : fatal error LNK1104: cannot open file 'C:\\Users\\ast\\work\\edm1\\output\\x64\\Debug\\guisys.lib'\n",
     "29>LINK : fatal error LNK1104: cannot open file 'C:\\Users\\ast\\work\\edm1\\output\\x64\\Release\\guisys.lib'\n"],
 30: ['30>------ Clean started: Project: e5_compiler, Configuration: Debug x64 ------\n',
-"30>LINK : fatal error LNK1104: cannot open file 'C:\\Users\\ast\\work\\edm1\\output\\x64\\Release\\guisys.lib'\n"]}
+    "30>LINK : fatal error LNK1104: cannot open file 'C:\\Users\\ast\\work\\edm1\\output\\x64\\Release\\guisys.lib'\n"]}
 
 ========== Clean: 30 succeeded, 0 failed, 0 skipped ==========
 ========== Build: 26 succeeded, 4 failed, 0 up-to-date, 0 skipped ==========
